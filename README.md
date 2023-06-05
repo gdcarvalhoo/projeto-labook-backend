@@ -7,18 +7,32 @@ Tecnologias utilizadas
 A Labook API foi desenvolvida utilizando as seguintes tecnologias:
 
 NodeJS: plataforma de desenvolvimento backend baseada em JavaScript.
+    
 TypeScript: superset do JavaScript que traz recursos adicionais de tipagem estática.
+    
 Express: framework web utilizado para criar aplicativos e APIs em NodeJS.
+    
 SQLite: linguagem de consulta estruturada e sistema de gerenciamento de banco de dados relacionais.
+    
 Knex: biblioteca para construção de consultas SQL de forma simples e intuitiva.
+    
 Programação Orientada a Objetos (POO): paradigma de programação que organiza o código em objetos e classes.
+    
 Arquitetura em camadas: abordagem que divide a aplicação em camadas para uma melhor organização e manutenção do código.
+    
 Geração de UUID: criação de identificadores únicos universalmente.
+    
 Geração de hashes: processo de converter dados em uma sequência alfanumérica de tamanho fixo.
+    
 Autenticação e autorização: mecanismos utilizados para garantir a segurança e controle de acesso aos recursos da aplicação.
+    
 Roteamento: definição de rotas para acessar diferentes recursos da API.
+    
 Postman: plataforma para testar e documentar APIs.
+    
 Banco de dados: armazenamento de informações relacionais utilizadas pela aplicação.
+    
+    
 Funcionalidades
 A Labook API oferece uma coleção de endpoints que permitem gerenciar usuários, posts e curtidas na plataforma de rede social. Abaixo estão detalhes das principais funcionalidades disponíveis:
 
